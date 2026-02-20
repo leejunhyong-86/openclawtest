@@ -1,0 +1,10 @@
+# 환경변수 및 민감한 정보
+.env
+*.env
+.env.*
+
+# OpenClaw 로컬 설정
+.openclaw/
+
+# macOS
+.DS_Store
